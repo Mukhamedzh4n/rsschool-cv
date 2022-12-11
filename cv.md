@@ -4,3 +4,4 @@ Ready to achieve new goals and knowledge!
 Java basics, GitHub,
 Java Intensive (Jusan Singularity)
 English B1-B2
+.
